@@ -172,7 +172,7 @@ yline(0, lcolor(grey) lpattern(dash)) ///
 xscale(range(`xmin', `xmax')) /// Limit the x-axis from 1997 to 2009
 xlabel(1997(1)2009, angle(45) nogrid format(%9.0f)) /// Customize x-axis labels
 xline(2002, lcolor(navy) lpattern(dash)) xtitle("Year") /// Add a vertical dotted line at 2002 and the X-axis title
-legend(order(1 "Nayypidaw" 6 "Yangon") region(lcolor(none)) position(1) col(2)) //
+legend(order(1 "Naypyidaw" 6 "Yangon") region(lcolor(none)) position(1) col(2)) //
 
 graph export "results/fig_2b.eps", replace
 
