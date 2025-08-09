@@ -23,6 +23,6 @@ The repository includes two `.do` files: `reply_table1.do` & `reply_table2.do` t
 This project is licensed under the MIT License.
 
 ---
-**Citation:** If you use this repository, please contact the corresponding author of:
+**Citation:** If you use this sub-repository, please contact the corresponding author of:
 > Huang, X., Yan, H., & Zhang, Z. (2025). *Economic Impacts of Capital City Relocation in Myanmar*. Nature Cities. DOI: [10.1038/s44284-025-00217-x](https://doi.org/10.1038/s44284-025-00217-x)
 
